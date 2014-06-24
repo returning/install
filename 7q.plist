@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://www.vip2t.com/7qUC_1.1.2.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://www.vip2t.com/7q_logo.png</string>
+               </dict>
+	       <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://www.vip2t.com/7q_logo.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.ucgame.7q.uc</string>
+               <key>bundle-version</key>
+               <string>1.1.2</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>七雄Q传</string>
+               <key>title</key>
+               <string>七雄Q传</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
