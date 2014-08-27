@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://www.vip2t.com/7qUC_1.1.2.ipa</string>
+                   <string>http://gproxy1.sm.cn/t/5/21/uc_nvyao_v1.1.0_r50071_201408221530_307605_111948aeb826.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -32,15 +32,15 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.ucgame.7q.uc</string>
+               <string>com.ucgame.ucgirl</string>
                <key>bundle-version</key>
-               <string>1.1.2</string>
+               <string>1.1.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>七雄Q传</string>
+               <string>女妖</string>
                <key>title</key>
-               <string>七雄Q传</string>
+               <string>女妖</string>
            </dict>
        </dict>
    </array>
