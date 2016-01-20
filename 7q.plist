@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://100.84.49.76/Unity-iPhone.ipa</string>
+                   <string>https://db.game2.test5.9game.cn:12005/test/Unity-iPhone.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
