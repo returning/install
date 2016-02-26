@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://100.84.42.16:8001/x4_client/trunk-cehua/ios/Unity-iPhone-Release.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://100.84.42.16:8001/x4_client/trunk-cehua/ios/icon/Icon.png</string>
+               </dict>
+	       <dict>
+                   <key>kind</key>
+                   <string>full-size-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://100.84.42.16:8001/x4_client/trunk-cehua/ios/icon/Icon@2x.png</string>
+               </dict>
+           </array><key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>cn.9game.ygcs.inhouse.test</string>
+               <key>bundle-version</key>
+               <string>2.0.0</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>远古传说</string>
+               <key>title</key>
+               <string>远古传说</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
