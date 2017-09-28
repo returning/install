@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://100.84.42.16:8001/x4_client/trunk-cehua/ios/icon/Icon.png</string>
+                   <string></string>
                </dict>
 	       <dict>
                    <key>kind</key>
@@ -27,20 +27,20 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://100.84.42.16:8001/x4_client/trunk-cehua/ios/icon/Icon@2x.png</string>
+                   <string></string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
                <string>cn.9game.ygcs.inhouse.test</string>
                <key>bundle-version</key>
-               <string>2.0.0</string>
+               <string>1.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>远古传说</string>
+               <string>湛卢</string>
                <key>title</key>
-               <string>远古传说</string>
+               <string>湛卢</string>
            </dict>
        </dict>
    </array>
